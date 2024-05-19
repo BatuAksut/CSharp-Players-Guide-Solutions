@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taking a Number", "Taking a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Countdown", "Countdown\Countdown.csproj", "{AB626853-D25A-48E7-A3C0-6120D22E5327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hunting the Manticore", "Hunting the Manticore\Hunting the Manticore.csproj", "{CA06DFEB-98B2-4700-A64C-C6EFA0512CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunting the Manticore", "Hunting the Manticore\Hunting the Manticore.csproj", "{CA06DFEB-98B2-4700-A64C-C6EFA0512CC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part1_the_basics", "part1_the_basics", "{B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part2_oop", "part2_oop", "{DC75D111-F4E4-44EB-BD78-17EED846F0A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
