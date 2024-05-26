@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simula’s Soup", "Simula�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vin Fletcher’s Arrows", "Vin Fletcher’s Arrows\Vin Fletcher’s Arrows.csproj", "{5C418C6B-9E12-4CBB-BFB7-742AC16823D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Point", "The Point\The Point.csproj", "{39E83FBE-F726-4876-B2ED-A6053B24964A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Point", "The Point\The Point.csproj", "{39E83FBE-F726-4876-B2ED-A6053B24964A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Color", "The Color\The Color.csproj", "{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +97,10 @@ Global
 		{39E83FBE-F726-4876-B2ED-A6053B24964A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39E83FBE-F726-4876-B2ED-A6053B24964A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39E83FBE-F726-4876-B2ED-A6053B24964A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{A5381E6C-F914-48B3-A092-4044C928B667} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{5C418C6B-9E12-4CBB-BFB7-742AC16823D2} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{39E83FBE-F726-4876-B2ED-A6053B24964A} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
+		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F714DAF-1B5E-4AB1-A7C5-E2AA3B776FBC}
