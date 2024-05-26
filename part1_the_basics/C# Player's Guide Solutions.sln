@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Point", "The Point\The 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Color", "The Color\The Color.csproj", "{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Card", "The Card\The Card.csproj", "{D43157F0-323B-456B-B7E7-23C7AB1104A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{5C418C6B-9E12-4CBB-BFB7-742AC16823D2} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{39E83FBE-F726-4876-B2ED-A6053B24964A} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
+		{D43157F0-323B-456B-B7E7-23C7AB1104A7} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F714DAF-1B5E-4AB1-A7C5-E2AA3B776FBC}
