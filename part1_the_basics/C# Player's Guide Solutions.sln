@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Color", "The Color\The 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Card", "The Card\The Card.csproj", "{D43157F0-323B-456B-B7E7-23C7AB1104A7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part2_object_oriented_programming", "part2_object_oriented_programming", "{9B9F9A8D-B1B4-4029-9E74-149AB3B34B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Locked Door", "The Locked Door\The Locked Door.csproj", "{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +111,10 @@ Global
 		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43157F0-323B-456B-B7E7-23C7AB1104A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,6 +136,7 @@ Global
 		{39E83FBE-F726-4876-B2ED-A6053B24964A} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{347DF9F8-EA98-4FA0-9E86-6BED37C9D30C} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
 		{D43157F0-323B-456B-B7E7-23C7AB1104A7} = {B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}
+		{4D8FA2B9-97DC-45AC-B052-A5F749CB6E76} = {9B9F9A8D-B1B4-4029-9E74-149AB3B34B57}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4F714DAF-1B5E-4AB1-A7C5-E2AA3B776FBC}
