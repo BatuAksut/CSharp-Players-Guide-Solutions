@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Countdown", "Countdown\Coun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunting the Manticore", "Hunting the Manticore\Hunting the Manticore.csproj", "{CA06DFEB-98B2-4700-A64C-C6EFA0512CC6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "part1_the_basics", "part1_the_basics", "{B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{B2DCA6C3-E10A-4AF9-AC09-BA5F1D376CCB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simula’s Test", "Simula’s Test\Simula’s Test.csproj", "{D7F2AD60-8021-43B4-8E6F-EBE387438C48}"
 EndProject
